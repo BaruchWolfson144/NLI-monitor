@@ -1,0 +1,2 @@
+# Requirements for local scripts (sync, analytics, ML)
+google-cloud-storage>=2.0.0
